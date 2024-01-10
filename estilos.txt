@@ -1,0 +1,27 @@
+--mountain-meadow-50: #ebfef7;
+--mountain-meadow-100: #cefde9;
+--mountain-meadow-200: #a1f9d7;
+--mountain-meadow-300: #64f1c5;
+--mountain-meadow-400: #27e0ac;
+--mountain-meadow-500: #02bb8d;
+--mountain-meadow-600: #00a27b;
+--mountain-meadow-700: #008266;
+--mountain-meadow-800: #006651;
+--mountain-meadow-900: #005445;
+--mountain-meadow-950: #002f28;
+
+
+RBG
+
+--mountain-meadow-50: 235 254 247;
+--mountain-meadow-100: 206 253 233;
+--mountain-meadow-200: 161 249 215;
+--mountain-meadow-300: 100 241 197;
+--mountain-meadow-400: 39 224 172;
+--mountain-meadow-500: 2 187 141;
+--mountain-meadow-600: 0 162 123;
+--mountain-meadow-700: 0 130 102;
+--mountain-meadow-800: 0 102 81;
+--mountain-meadow-900: 0 84 69;
+--mountain-meadow-950: 0 47 40;
+
